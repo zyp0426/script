@@ -1,7 +1,7 @@
 /****************************************
  * 监控汇率变化
  * @author: Peng-YM
- * @Alter: chxm1023
+ * @Alter: xiaolong2022
  * 更新地址：https://raw.githubusercontent.com/xiaolong2022/ZYJB/script/main/tast/hljk.js
  * 配置方法：
  * 1. 设置基准货币，默认人民币(CNY)。
