@@ -1,14 +1,14 @@
 /****************************************
  * 监控汇率变化
  * @author: Peng-YM
- * @Alter: xiaolong2022
- * 更新地址：https://raw.githubusercontent.com/xiaolong2022/ZYJB/script/main/tast/hljk.js
+ * @Alter: zyp0426
+ * 更新地址：https://raw.githubusercontent.com/zyp0426/script/main/Task/hljk.js
  * 配置方法：
  * 1. 设置基准货币，默认人民币(CNY)。
  * 2. 设置保留几位小数。
  * @update ：YangZhaocool
 [task_local]
-10 0 * * ? https://raw.githubusercontent.com/xiaolong2022/ZYJB/script/main/tast/hljk.js, tag=汇率监控, img-url= https://raw.githubusercontent.com/xiaolong2022/ZYJB/main/tB/cion/hljk.PNG, enabled=true
+10 0 * * ? https://raw.githubusercontent.com/zyp0426/script/main/Task/hljk.js, tag=汇率监控, img-url= https://raw.githubusercontent.com/zyp0426/script/main/icon/hljk.PNG, enabled=true
 ****************************************/
 
 const base = "CNY"; // 基准货币，可以改成其他币种
