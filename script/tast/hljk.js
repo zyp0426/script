@@ -8,7 +8,7 @@
  * 2. 设置保留几位小数。
  * @update ：YangZhaocool
 [task_local]
-10 0 * * ? https://raw.githubusercontent.com/xiaolong2022/ZYJB/script/main/tast/hljk.js, tag=汇率监控, img-url=https://raw.githubusercontent.com/chxm1023/script/main/icon/hljk.png, enabled=true
+10 0 * * ? https://raw.githubusercontent.com/xiaolong2022/ZYJB/script/main/tast/hljk.js, tag=汇率监控, img-url= https://raw.githubusercontent.com/xiaolong2022/ZYJB/main/tB/cion/hljk.PNG, enabled=true
 ****************************************/
 
 const base = "CNY"; // 基准货币，可以改成其他币种
