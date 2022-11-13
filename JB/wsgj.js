@@ -17,7 +17,7 @@ hostname = api-v3.speedtest.cn
 
 
 
-var chxm = JSON.parse($response.body); 
+var zyp = JSON.parse($response.body); 
 // 
 
 zyp ={
