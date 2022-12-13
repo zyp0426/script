@@ -93,7 +93,7 @@ hostname = ms.jr.jd.com, me-api.jd.com, api.m.jd.com
 
 [task_local]
 # 京东多合一签到
-5 0 * * * https://raw.githubusercontent.com/zyp0426/script/main/Task/JD_DailyBonus.js, tag=京东多合一签到, img-url=https://raw.githubusercontent.com/chxm1023/Task/main/JD/icons/jd.png,enabled=true
+5 0 * * * https://raw.githubusercontent.com/zyp0426/script/main/Task/JD_DailyBonus.js, tag=京东多合一签到, img-url=https://raw.githubusercontent.com/zyp0426/script/main/JD/icons/jd.PNG,enabled=true
 
 [rewrite_local]
 # 获取京东Cookie. 
